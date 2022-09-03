@@ -5,12 +5,9 @@ In this project, I imported a dataset, did some preparation processes, and visua
 
 ## details:
 
-
 In this Project, I worked on a drink menue dataset that contain the calories details for more than 200 drinks , did some preparation processes on it, and visualized the results to answer two questions:
-
-
-- Q1. Which drink has the highest calories from the dataset?
-- Q2. Highest Sugar Drink ?
+	- Q1. Which drink has the highest calories from the dataset?
+	- Q2. Highest Sugar Drink?
 
 
 
@@ -18,12 +15,12 @@ In this Project, I worked on a drink menue dataset that contain the calories det
 
 - Import dataset
 - Data preparation: 
-		1- Remove duplicates
-		2- Fill null values
-		3- Drop unnecessary Columns
+		- 1- Remove duplicates
+		- 2- Fill null values
+		- 3- Drop unnecessary Columns
 - Data Visualisations: Using plots to answers this questions:
-		-Q1. Which drink has the highest calories from the dataset?
-		-Q2. Highest Sugar Drink ?
+		- Q1. Which drink has the highest calories from the dataset?
+		- Q2. Highest Sugar Drink ?
 
 
 ## Charts:
@@ -37,4 +34,5 @@ In this Project, I worked on a drink menue dataset that contain the calories det
 
 
 You can find the step details, methods, charts on the report.
+
 
