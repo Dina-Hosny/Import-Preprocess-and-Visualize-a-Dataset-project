@@ -1,11 +1,14 @@
 # Import, Preprocess, and Visualize a Dataset Project
 
-In this project, I imported a dataset, did some preparation processes, and visualized the results to answer some given questions.
+A simple project to practice importing a dataset, data cleaning and preparation processes, and visualize the results to answer some given questions.
+
 
 
 ## details:
 
-In this Project, I worked on a drink menue dataset that contain the calories details for more than 200 drinks , did some preparation processes on it, and visualized the results to answer two questions:
+In this project, I imported a dataset, did some preparation processes, and visualized the results to answer some given questions.
+
+I worked on a drink menue dataset that contain the calories details for more than 200 drinks , did some preparation processes on it, and visualized the results to answer two questions:
 - Q1. Which drink has the highest calories from the dataset?
 - Q2. Highest Sugar Drink?
 
