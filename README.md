@@ -34,14 +34,16 @@ In this Project, I worked on a drink menue dataset that contain the calories det
 
 ## Charts:
 
+### Q1: Which drink has the highest calories from the dataset?
+
 ![Chart1](https://user-images.githubusercontent.com/46838441/181722937-13a4ae14-6fb3-4b30-8bd2-2161205c6bdd.png)
 
-
+### Q2: Highest Sugar Drink?
 
 ![Chart2](https://user-images.githubusercontent.com/46838441/181722988-27e4834e-4104-40cf-bbd1-8cc9f3e6815d.png)
 
 
 
-You can find the step details, methods, charts on the report.
+###You can find the step details, methods, charts on the report.
 
 
