@@ -25,7 +25,7 @@ In this Project, I worked on a drink menue dataset that contain the calories det
 
 ## Used Technologies:
 
-- Juppyter Notebook
+- Jupyter Notebook
 - Python 3
 - Pandas
 - NumPy
