@@ -21,6 +21,15 @@ In this Project, I worked on a drink menue dataset that contain the calories det
 - Data Visualisations: Using plots to answers this questions:
 	- Q1. Which drink has the highest calories from the dataset?
 	- Q2. Highest Sugar Drink ?
+	
+
+## Used Technologies:
+
+- Juppyter Notebook
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib
 
 
 ## Charts:
